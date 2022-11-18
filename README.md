@@ -9,3 +9,6 @@
 
 ## Get_Next_line
 [![jmeruma's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clab6l10b00840fmldpp53p2z/project/2845600)](https://github.com/JaeSeoKim/badge42)
+
+## Born2beroot 
+[![jmeruma's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clab6l10b00840fmldpp53p2z/project/2859263)](https://github.com/JaeSeoKim/badge42)
