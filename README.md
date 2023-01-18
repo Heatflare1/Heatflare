@@ -12,3 +12,7 @@
 
 ## Born2beroot 
 [![jmeruma's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clab6l10b00840fmldpp53p2z/project/2859263)](https://github.com/JaeSeoKim/badge42)
+
+## FDF
+[![jmeruma's 42 FdF Score](https://badge42.vercel.app/api/v2/clab6l10b00840fmldpp53p2z/project/2886866)](https://github.com/JaeSeoKim/badge42)
+
