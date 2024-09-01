@@ -17,5 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisse-meruma&show_icons=true&locale=en&layout=compact" alt="jisse-meruma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisse-meruma&show_icons=true&locale=en" alt="jisse-meruma" /></p>
-
